@@ -1,7 +1,8 @@
 Here you can find the solutions of [these](https://www.w3resource.com/c-programming-exercises/) problems from w3resource.<br><br>
 ## List of C Programming Exercises :
 <hr>
-- [] Basic Declarations and Expressions<br>
+
+- [ ] Basic Declarations and Expressions<br>
 Basic Algorithm<br> 
 - [] Variable Type<br>
 - [ ] Input, Output<br>

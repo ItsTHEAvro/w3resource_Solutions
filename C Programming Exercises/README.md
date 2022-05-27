@@ -3,7 +3,7 @@ Here you can find the solutions of [these](https://www.w3resource.com/c-programm
 <hr>
 
 - [ ] Basic Declarations and Expressions<br>
-Basic Algorithm<br> 
+- [ ] Basic Algorithm<br> 
 - [ ] Variable Type<br>
 - [ ] Input, Output<br>
 - [ ] Conditional Statement<br>
@@ -19,5 +19,5 @@ Basic Algorithm<br>
 - [ ] Recursion<br>
 - [ ] File Handling<br>
 - [ ] Algorithm<br>
- - [ ] Search and Sorting<br>
- - [ ] Practice<br>
+    - [ ] Search and Sorting<br>
+    - [ ] Practice<br>

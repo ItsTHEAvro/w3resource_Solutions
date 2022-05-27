@@ -1,6 +1,5 @@
 /*
-Problem: Write a program in C
-to show the simple structure of a function.
+Problem: Write a program in C to show the simple structure of a function.
 Author: Jyotirmoy Avro
 */
 

@@ -4,7 +4,7 @@ Here you can find the solutions of [these](https://www.w3resource.com/c-programm
 
 - [ ] Basic Declarations and Expressions<br>
 Basic Algorithm<br> 
-- [] Variable Type<br>
+- [ ] Variable Type<br>
 - [ ] Input, Output<br>
 - [ ] Conditional Statement<br>
 - [ ] For Loop<br>

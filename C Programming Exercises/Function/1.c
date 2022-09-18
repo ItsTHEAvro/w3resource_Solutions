@@ -1,7 +1,9 @@
-/*
-Problem: Write a program in C to show the simple structure of a function.
-Author: Jyotirmoy Avro
-*/
+/**********************************************
+    Problem: Write a program in C
+    to show the simple structure of a function.
+
+    Solved By: Jyotirmoy Avro
+***********************************************/
 
 #include <stdio.h>
 

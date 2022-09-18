@@ -1,11 +1,14 @@
-/*
-Problem: Write a program in C to check a given number is even or odd using the function.
-Author: Jyotirmoy Avro
-*/
+/**********************************************
+    Problem: Write a program in C
+    to check a given number is even or odd
+    using the function.
+
+    Solved By: Jyotirmoy Avro
+***********************************************/
 
 #include <stdio.h>
 
-int EoD(int);
+int evenOrOdd(int);
 
 int main(void)
 {
@@ -14,7 +17,7 @@ int main(void)
     printf("Input any number: ");
     scanf("%d", &num);
 
-    if(EoD(num))
+    if(evenOrOdd(num))
     {
         printf("The entered number is odd.");
     }
@@ -26,7 +29,7 @@ int main(void)
     return 0;
 }
 
-int EoD(int n)
+int evenOrOdd(int n)
 {
     return n&1;
 }

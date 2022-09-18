@@ -1,7 +1,9 @@
-/*
-Problem: Write a program in C to swap two numbers using function.
-Author: Jyotirmoy Avro
-*/
+/**********************************************
+    Problem: Write a program in C
+    to swap two numbers using function.
+
+    Solved By: Jyotirmoy Avro
+***********************************************/
 
 #include <stdio.h>
 

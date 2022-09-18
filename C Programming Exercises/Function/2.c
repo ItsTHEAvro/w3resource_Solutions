@@ -1,7 +1,9 @@
-/*
-Problem: Write a program in C to find the square of any number using the function.
-Author: Jyotirmoy Avro
-*/
+/***********************************************
+    Problem: Write a program in C to find
+    the square of any number using the function.
+
+    Solved By: Jyotirmoy Avro
+***********************************************/
 
 #include <stdio.h>
 

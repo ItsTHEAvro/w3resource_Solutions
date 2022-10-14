@@ -8,7 +8,7 @@ public class Problem109 {
         System.out.print("Enter a positive integer: ");
         int n, ans;
         n = input.nextInt();
-        ans = (int) ((Math.sqrt(8 * (long)n + 1) - 1) / 2);
+        ans = (int) ((Math.sqrt(8 * n + 1) - 1) / 2);
         System.out.println("Number of rows: " + ans);
         input.close();
     }
